@@ -1,0 +1,22 @@
+{
+  "name": "e-doctor",
+  "version": "0.0.1",
+  "description": "MVP application for remote doctor consultation.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreyrozumnyi/e-doctor.git"
+  },
+  "author": "Andrii Rozumnyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreyrozumnyi/e-doctor/issues"
+  },
+  "homepage": "https://github.com/andreyrozumnyi/e-doctor#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
